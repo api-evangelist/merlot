@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MERLOT is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://merlot.org/
+MERLOT (the Multimedia Educational Resource for Learning and Online Teaching) is a non‑profit organization that provides a curated collection of free and open online learning materials, tools, and resources for educators, students, and lifelong learners. It hosts a searchable repository of peer‑reviewed teaching materials, offers community‑driven support, and facilitates collaboration through its SkillsCommons platform, aiming to improve teaching and learning worldwide.
+
+**Areas:** Company · Education · Open-Source · Community · Learning
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.merlot.org/merlot/index.htm)
+- [Documentation](https://www.merlot.org/merlot/index.htm)
+- [Blog](http://blog.merlot.org/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/merlot/](https://apis.io/providers/merlot/).
